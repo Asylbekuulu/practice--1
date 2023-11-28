@@ -1,0 +1,14 @@
+/Users/erjanasylbekov/Desktop/Обучение/Урок 1-С#/Практика№2/first_program/bin/Debug/net8.0/first_program
+/Users/erjanasylbekov/Desktop/Обучение/Урок 1-С#/Практика№2/first_program/bin/Debug/net8.0/first_program.deps.json
+/Users/erjanasylbekov/Desktop/Обучение/Урок 1-С#/Практика№2/first_program/bin/Debug/net8.0/first_program.runtimeconfig.json
+/Users/erjanasylbekov/Desktop/Обучение/Урок 1-С#/Практика№2/first_program/bin/Debug/net8.0/first_program.dll
+/Users/erjanasylbekov/Desktop/Обучение/Урок 1-С#/Практика№2/first_program/bin/Debug/net8.0/first_program.pdb
+/Users/erjanasylbekov/Desktop/Обучение/Урок 1-С#/Практика№2/first_program/obj/Debug/net8.0/first_program.GeneratedMSBuildEditorConfig.editorconfig
+/Users/erjanasylbekov/Desktop/Обучение/Урок 1-С#/Практика№2/first_program/obj/Debug/net8.0/first_program.AssemblyInfoInputs.cache
+/Users/erjanasylbekov/Desktop/Обучение/Урок 1-С#/Практика№2/first_program/obj/Debug/net8.0/first_program.AssemblyInfo.cs
+/Users/erjanasylbekov/Desktop/Обучение/Урок 1-С#/Практика№2/first_program/obj/Debug/net8.0/first_program.csproj.CoreCompileInputs.cache
+/Users/erjanasylbekov/Desktop/Обучение/Урок 1-С#/Практика№2/first_program/obj/Debug/net8.0/first_program.dll
+/Users/erjanasylbekov/Desktop/Обучение/Урок 1-С#/Практика№2/first_program/obj/Debug/net8.0/refint/first_program.dll
+/Users/erjanasylbekov/Desktop/Обучение/Урок 1-С#/Практика№2/first_program/obj/Debug/net8.0/first_program.pdb
+/Users/erjanasylbekov/Desktop/Обучение/Урок 1-С#/Практика№2/first_program/obj/Debug/net8.0/first_program.genruntimeconfig.cache
+/Users/erjanasylbekov/Desktop/Обучение/Урок 1-С#/Практика№2/first_program/obj/Debug/net8.0/ref/first_program.dll
